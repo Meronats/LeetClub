@@ -14,7 +14,7 @@ Welcome to the official GitHub repository for our campus LeetCode Club! Here, we
 
 ## 📌 Job Board
 
-The Job Board is updated daily to bring you the latest opportunities. We list internship and entry-level software engineering roles, along with links to apply. To support international students, each listing notes whether the job provides sponsorship. [View the Job Board](JobBoard.md)
+The Job Board is updated daily to bring you the latest opportunities. We list internship and entry-level software engineering roles, along with links to apply. To support international students, each listing notes whether the job provides sponsorship. [View the Job Board](https://github.com/Meronats/LeetClub/tree/main/JobBoard)
 
 _This is updated every 24 hours _
 
