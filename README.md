@@ -22,7 +22,7 @@ _This is updated every 24 hours _
 
 ## 📝 Resume Resources
 
-Polish your resume with templates and tips specific to tech roles. Find resources for building ATS-friendly resumes, structuring project descriptions, and showcasing your skills effectively. [Access Resume Templates](ResumeTemplates/)
+Polish your resume with templates and tips specific to tech roles. Find resources for building ATS-friendly resumes, structuring project descriptions, and showcasing your skills effectively. [Access Resume Templates](https://github.com/Meronats/LeetClub/tree/main/ResumeResources)
 
 ---
 
@@ -33,19 +33,19 @@ Prepare for technical interviews with resources on data structures, algorithms, 
 - Solution explanations
 - Links to recommended books and courses
 
-[Explore Technical Prep Resources](TechnicalPrep/)
+[Explore Technical Prep Resources](https://github.com/Meronats/LeetClub/tree/main/TechnicalInterviewPrep)
 
 ---
 
 ## 🗣️ Behavioral Interview Prep
 
-Master the behavioral side of interviews! Here, we cover frameworks like STAR (Situation, Task, Action, Result) and provide practice questions to help you articulate your experiences effectively. [View Behavioral Prep Materials](BehavioralPrep/)
+Master the behavioral side of interviews! Here, we cover frameworks like STAR (Situation, Task, Action, Result) and provide practice questions to help you articulate your experiences effectively. [View Behavioral Prep Materials](https://github.com/Meronats/LeetClub/tree/main/BehavioralInterviewPrep)
 
 ---
 
 ## 🌐 Getting Started on LinkedIn
 
-LinkedIn is a powerful tool for networking and job searching. This section includes guides on optimizing your LinkedIn profile, connecting with professionals, and building your brand. [Get Started with LinkedIn](LinkedInGuide/)
+LinkedIn is a powerful tool for networking and job searching. This section includes guides on optimizing your LinkedIn profile, connecting with professionals, and building your brand. [Get Started with LinkedIn](https://github.com/Meronats/LeetClub/tree/main/LinkedInGuide)
 
 ---
 
