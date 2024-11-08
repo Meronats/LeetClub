@@ -1,9 +1,21 @@
-# 🎉 Job Board 🎉
+# 🎉 New Grad Job Board 🎉
 
 Welcome to our job board! Here, you’ll find the latest new grad roles, complete with links to apply and information on whether they provide sponsorship for international students.
 
 | Company | Role | Location | Sponsorship | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- | ----------- |
+| **Tiktok** | New Grad 2025: Backend Engineer | San Jose, CA | ✅ Yes | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/d0d84915971db2e9d921?utm_source=cvrve) | Nov 07 |
+| **NVIDIA** | New Grad 2025: Developer Technology Engineer, Public Sector | Santa Clara, CA | ✅ Yes | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/8dba49bd70e8fb267fbf?utm_source=cvrve) | Nov 07 |
+| **Ambient AI** | Software Engineer | San Francisco, CA | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/9f2e3a539bd574335f93?utm_source=cvrve) | Nov 07 |
+| **Parafin** | New Grad: Backend Software Engineer | San Francisco, CA | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/dd86667918be80360a93?utm_source=cvrve) | Nov 06 |
+| **KFC** | Junior Site Reliability Engineer | Louisville, CO | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/b56f173fcc52f8375a22?utm_source=cvrve) | Nov 06 |
+| **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/93f8475397ff878a6360?utm_source=cvrve) | Nov 05 |
+| **Visa** | New Grad 2025: Site Reliability Engineer | Austin, TX | ✅ Yes | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/9bce7aaea22f99bf4114?utm_source=cvrve) | Nov 05 |
+| **Textron** | New Grad 2025: Software Engineer | Hunt Valley, MD | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/9d798950995af5bf0e0c?utm_source=cvrve) | Nov 05 |
+| **Exact Sciences** | Software Engineer I | San Diego, CA<br>Madison, WI | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/d03bd17182e49b4467dd?utm_source=cvrve) | Nov 05 |
+| **bet365** | Software Engineer, Core Systems | Denver, CO | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/0d821aa40ef122a706a6?utm_source=cvrve) | Nov 05 |
+| **bet365** | Software Developer, Trading and Tools | Denver, CO | 🛂 Unknown | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/449c246ef6853a0239b3 utm_source=cvrve) | Nov 05 |
+| **Amazon** | Software Dev Engineer | Seattle, WA | ✅ Yes | [<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">](http://redirect.cvrve.me/eb66411b34449e7c378d?utm_source=cvrve) | Nov 05 |
 | **[Revature](https://www.revature.com/entry-level-software-engineer?utm_source=linkedin&sourcedBy=BalaLP)** | Entry level Java Developer | Middletown, CT | ❌ No | [<img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply">](https://www.revature.com/entry-level-software-engineer?utm_source=linkedin&sourcedBy=BalaLP) | Nov 4 |
 | **[Ripple Match](https://job-boards.greenhouse.io/ripplematchinterns/jobs/7714978002?gh_src=56c1cc942us)** | Entry level SWE | Minneapolis, MN | ✅ Yes | [<img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply">](https://job-boards.greenhouse.io/ripplematchinterns/jobs/7714978002?gh_src=56c1cc942us) | Nov 4 |
 | **[Canonical](https://boards.greenhouse.io/canonicaljobs/jobs/6203551?gh_src=8e4832c41us)** | Python SWE, Ubuntu Hardware certification team | Chicago, IL | ❌ No | [<img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply">](https://boards.greenhouse.io/canonicaljobs/jobs/6203551?gh_src=8e4832c41us) | Nov 4 |

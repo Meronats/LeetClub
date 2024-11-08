@@ -1,4 +1,4 @@
-# 🎉 Job Board 🎉
+# 🎉 Internship Job Board 🎉
 
 Welcome to our job board! Here, you’ll find the latest internship, complete with links to apply and information on whether they provide sponsorship for international students.
 
