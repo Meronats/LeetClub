@@ -16,13 +16,6 @@ Welcome to the Resources Repository! Here, you'll find curated links to platform
 
 ---
 
-## 📖 Books
-- [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - A must-read book on writing clean, maintainable code.
-- [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/) - Essential for mastering coding interviews.
-- [You Don’t Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - A free JavaScript book series for deep understanding.
-- [Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/) - A classic for learning algorithms and data structures.
-
----
 
 ## 📝 Articles
 - [Big-O Notation Explained](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) - A beginner-friendly guide to understanding algorithm complexity.
