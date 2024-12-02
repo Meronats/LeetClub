@@ -1,6 +1,6 @@
 # Resources Repository
 
-Welcome to the Resources Repository! Here, you'll find curated links to platforms, articles, and books to help you learn, practice, and prepare for technical interviews.
+Welcome to the Resources Repository! Here, you'll find curated links to platforms, articles, books, and tutorials to help you learn, practice, and prepare for technical interviews.
 
 ---
 
@@ -13,9 +13,10 @@ Welcome to the Resources Repository! Here, you'll find curated links to platform
 - [Exercism](https://exercism.org/) - Practice coding challenges in different languages with mentoring.
 - [Codeforces](https://codeforces.com/) - A competitive programming platform with contests and challenges.
 - [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science) - Learn the fundamentals of computer science interactively.
+- [Pramp](https://www.pramp.com/) - Free mock interviews for coding and system design preparation.
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer) - A comprehensive guide to system design concepts and interview preparation.
 
 ---
-
 
 ## 📝 Articles
 - [Big-O Notation Explained](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) - A beginner-friendly guide to understanding algorithm complexity.
@@ -31,4 +32,23 @@ Welcome to the Resources Repository! Here, you'll find curated links to platform
 - [CS50 by Harvard University](https://cs50.harvard.edu/x/) - A free, beginner-friendly introduction to computer science.
 - [AlgoExpert](https://www.algoexpert.io/) - A paid platform for coding interview preparation, focusing on problem-solving and system design.
 - [Coursera - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - Master algorithms and data structures with top university instructors.
+
+---
+
+## 📘 Books
+- [Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/3LKzXEF) - A go-to book for coding interview preparation.
+- [Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein](https://amzn.to/3RVGZGm) - A detailed textbook on algorithms.
+- [Designing Data-Intensive Applications by Martin Kleppmann](https://amzn.to/3FJfxKs) - A comprehensive system design and data management guide.
+- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) - An approachable guide to understanding distributed systems.
+- [Algorithms by Robert Sedgewick and Kevin Wayne](https://amzn.to/45FTRPi) - A foundational book on algorithms.
+
+---
+
+## ✍️ Contributing
+Feel free to submit a pull request if you have additional resources to share!
+
+---
+
+### **Happy Interviewing!** 🎉
+
 
